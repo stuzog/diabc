@@ -3,6 +3,7 @@ title: "Diabetic Data"
 author: Stuart Hertzog
 date: '2018-05-07'
 slug: diabetic-data
+type: ["post"]
 categories: ["data-science"]
 tags: ["data-science"]
 ---

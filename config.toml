@@ -1,9 +1,9 @@
 ## Basic Configuration
 baseurl = "/"
-languageCode = "en"
-
+title = "DiabeticsBC"
+description = "The Needs and Views of People With Diabetes"
 theme = "hyde-hyde"
-
+languageCode = "en"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ## Hugo Built-in Features
@@ -36,12 +36,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
+    name = "Home"
     weight = 100
-    identifier = "posts"
+    identifier = "home"
+    url = "/"
+[[menu.main]]
+    name = "Posts"
+    weight = 200
+    identifier = "post"
+    url = "/post/"
+[[menu.main]]
+    name = "Hugo"
+    weight = 250
+    identifier = "hugo"
     url = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "About Hugo"
     identifier = "about"
-    weight = 200
+    weight = 300
     url = "/about/"
