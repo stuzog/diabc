@@ -1,17 +1,32 @@
-+++
-title = "About Hugo"
-date = "2014-04-09"
-+++
+---
+title: "About DiabeticsBC"
+author: Stuart Hertzog
+date: '2018-05-12'
+slug: ["about-diabeticsbc"]
+type: ["post"]
+categories: ["diabeticsbc"]
+tags: ["diabeticsbc"]
+---
 
-Hugo is a static site engine written in Go.
+**We are an association of British Columbians** who are managing our diabetes using self-monitoring devices.
 
+**We aim to provide education and support** for new and long-term diabetics to better manage their condition, and to inform governments and health authorities in BC of the health and fiscal advantages of modern glucose monitoring.
 
-It makes use of a variety of open source projects including:
+**We also wish to improve understanding** by ourselves, by the medical profession, and by health authorities of the data such monitoring devices can provide.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## Our Aims
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+We aim to:
+
+* **Learn** about traditional, current, and proposed new diabetes self-management techniques and technologies;
+* **Help** of all types diabetics living in BC to maintain their health through active self-management of their condition;
+* **Educate** ourselves, the general public, governments, and others about existing and proposed diabetes self-management techniques and technologies; and
+* **Represent** the needs and interests of British Columbians who have been diagnosed as having diabetes.
+
+## How To Contact Us
+**Information**: *info@diabeticsbc.ca*  
+**Discussion**: *discussion@diabeticsbc.ca*  
+**Facebook**: *https://Facebook.com/groups/diabeticsbc*  
+**Twitter**: *@diabeticsbc*  
+**Web site**: *http://diabeticsbc.ca*  (under construction)  
 
