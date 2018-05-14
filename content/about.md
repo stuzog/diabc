@@ -16,11 +16,11 @@ tags: ["diabeticsbc"]
 
 **We also wish to improve understanding** by ourselves, by the medical profession, and by health authorities of the data such monitoring devices can provide.
 
-We will endeavour to achieve our Aims by:
+## We will endeavour to achieve our Aims by:
 
 * **Learning** about traditional, current, and proposed new diabetes self-management techniques and technologies;
 * **Helping** of all types diabetics living in BC to maintain their health through active self-management of their condition;
-* **Educateing** ourselves, the general public, governments, and others about existing and proposed diabetes self-management techniques and technologies; and
+* **Educating** ourselves, the general public, governments, and others about existing and proposed diabetes self-management techniques and technologies; and
 * **Representing** the needs and interests of British Columbians who have been diagnosed as having diabetes.
 
 ## How To Contact Us
