@@ -1,7 +1,7 @@
 ## Basic Configuration
 baseurl = "/"
 title = "DiabeticsBC"
-description = "The Needs and Views of People With Diabetes"
+description = "A Voice For British Columbians With Diabetes"
 theme = "hyde-hyde"
 languageCode = "en"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
