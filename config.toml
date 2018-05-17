@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     author = "Stuart Hertzog"
     title = "Diabetes & Data"
-    # description = "..."
+    description = "We Are People With Diabetes"
     authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
     highlightjs = true
