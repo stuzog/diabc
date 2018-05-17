@@ -1,7 +1,6 @@
 ## Basic Configuration
 baseurl = "/"
 title = "DiabeticsBC"
-description = "A Voice For British Columbians With Diabetes"
 theme = "hyde-hyde"
 languageCode = "en"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -14,10 +13,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ## Site Settings
 [params]
     author = "Stuart Hertzog"
-    title = "Diabetes & Data"
     description = "We Are People With Diabetes"
     authorimage = "/img/hugo.png"
-    dateformat = "Jan 2, 2006"
+    dateformat = "January 2, 2006"
     highlightjs = true
     # highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
@@ -25,14 +23,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    email = "your-email@example.com"
+    # github = "<username>"
+    # instagram = "<username>"
+    # xing = "<username>"
+    # linkedin = "<username>"
+    # twitter = "diabeticsbc"
+    facebook = "groups/diabeticsbc"
+    # stackoverflow = "<username>"
+    email = "info@diabeticsbc.ca"
 
 ## Main Menu
 [[menu.main]]
