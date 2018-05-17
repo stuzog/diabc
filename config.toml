@@ -6,7 +6,7 @@ languageCode = "en"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ## Hugo Built-in Features
-# disqusShortname = "your-disqus-shortname"
+disqusShortname = "diabeticsbc"
 # googleAnalytics = "your-google-analytics-id"
 # enableRobotsTXT = true
 
