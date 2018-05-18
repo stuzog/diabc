@@ -25,9 +25,9 @@ tags: ["diabeticsbc"]
 
 ## How To Contact Us
 
-**Information**: *[info@diabeticsbc.ca](mailto:info@diabeticsbc.ca?subject=Please send me information (linked from diabeticsbc.ca)")*  
+**Information**: *<a href="mailto:info@diabeticsbc.ca?subject=Please send me information (linked from diabeticsbc.ca">info@diabeticsbc.ca</a>*  
 **Discussion List**: *[discussion@diabeticsbc.ca](http://diabeticsbc.ca/mailman/listinfo/discussion_diabeticsbc.ca)*  
-**Facebook**: *https://Facebook.com/groups/diabeticsbc*  
-**Twitter**: *@diabeticsbc*  
-**Web site**: *http://diabeticsbc.ca*  (this site, still under construction)
+**Facebook**: *<https://facebook.com/groups/diabeticsbc>*  
+**Twitter**: *<https://twitter.com/diabeticsbc>*  
+**Web site**: *<http://diabeticsbc.ca>*  (this site, still under construction)
 
