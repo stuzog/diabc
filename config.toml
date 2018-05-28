@@ -44,11 +44,6 @@ disqusShortname = "diabeticsbc"
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Hugo"
-    weight = 250
-    identifier = "hugo"
-    url = "/hugo/"
-[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 300
