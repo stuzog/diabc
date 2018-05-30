@@ -1,5 +1,3 @@
-<html><head><title>About This Site</title></head>
-
 # About this site
 
 This is a prototype of the DiabeticsBC Web site, using the __`hyde-hyde`__ theme.
