@@ -6,7 +6,7 @@ slug: ["contact"]
 type: ["page"]
 layout: "contactform"
 categories: ["diabeticsbc"]
-tags: ["diabeticsbc"]
+tags: ["contact"]
 ---
 
 <form name="contact" method="POST" netlify>
