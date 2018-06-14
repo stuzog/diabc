@@ -1,3 +1,13 @@
+---
+title: "Contact Us"
+author: Stuart Hertzog
+date: '2018-06-14'
+slug: ["contact-diabeticsbc"]
+type: ["post"]
+categories: ["diabeticsbc"]
+tags: ["diabeticsbc"]
+---
+
 <form name="contact" method="POST" netlify>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
