@@ -16,14 +16,6 @@ tags: ["diabeticsbc"]
   <p>
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
-<!--
-  <p>
-    <label>Your Health: <select name="health[]" multiple>
-      <option value="diabetic">I have diabetes</option>
-      <option value="non-diabetic">I do not have diabetes</option>
-    </select></label>
-  </p>
--->
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
