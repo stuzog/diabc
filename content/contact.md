@@ -2,8 +2,9 @@
 title: "Contact Us"
 author: Stuart Hertzog
 date: '2018-06-14'
-slug: ["contact-diabeticsbc"]
+slug: ["contact"]
 type: ["page"]
+layout: "contactlayout"
 categories: ["diabeticsbc"]
 tags: ["diabeticsbc"]
 ---

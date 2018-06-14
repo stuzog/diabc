@@ -17,6 +17,7 @@ disqusShortname = "diabeticsbc"
     authorimage = "/img/hugo.png"
     dateformat = "January 2, 2006"
     highlightjs = true
+    email = "info@diabeticsbc.ca"
     # highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
     # GraphCommentId = "your-graph-comment-id"
@@ -30,7 +31,6 @@ disqusShortname = "diabeticsbc"
     # twitter = "diabeticsbc"
     facebook = "groups/diabeticsbc"
     # stackoverflow = "<username>"
-    email = "info@diabeticsbc.ca"
 
 ## Main Menu
 [[menu.main]]
@@ -39,15 +39,15 @@ disqusShortname = "diabeticsbc"
     identifier = "home"
     url = "/"
 [[menu.main]]
-    name = "Posts"
-    weight = 200
-    identifier = "posts"
-    url = "/posts/"
-[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 300
     url = "/about/"
+[[menu.main]]
+    name = "Posts"
+    weight = 200
+    identifier = "posts"
+    url = "/posts/"
 [[menu.main]]
     name = "Contact"
     identifier = "contact"
