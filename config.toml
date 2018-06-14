@@ -48,3 +48,8 @@ disqusShortname = "diabeticsbc"
     identifier = "about"
     weight = 300
     url = "/about/"
+[[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    weight = 400
+    url = "/contact/"
