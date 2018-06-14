@@ -4,7 +4,7 @@ author: Stuart Hertzog
 date: '2018-06-14'
 slug: ["contact"]
 type: ["page"]
-layout: "contactlayout"
+layout: "contactform"
 categories: ["diabeticsbc"]
 tags: ["diabeticsbc"]
 ---
