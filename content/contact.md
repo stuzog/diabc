@@ -3,7 +3,7 @@ title: "Contact Us"
 author: Stuart Hertzog
 date: '2018-06-14'
 slug: ["contact-diabeticsbc"]
-type: ["post"]
+type: ["page"]
 categories: ["diabeticsbc"]
 tags: ["diabeticsbc"]
 ---
