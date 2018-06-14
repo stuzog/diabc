@@ -9,7 +9,7 @@ categories: ["diabeticsbc"]
 tags: ["contact"]
 ---
 
-We'd love to hear from you &mdash; your thoughts, suggestions,or experiences with diabetes and health care. We will never sell or use your email address for any other purpose than to contact you.
+We'd love to hear from you &mdash; your thoughts, suggestions, or experiences with diabetes and health care. We will never sell or use your email address for any other purpose than to contact you.
  
  <form name="contact" method="POST" netlify>
   <p>
