@@ -11,7 +11,7 @@ tags: ["contact"]
 
 We'd love to hear from you &mdash; your thoughts, suggestions, or experiences with diabetes and the BC health care system. There are three ways to do this:
 
-* **Comment on a post or page** via your  [Disqus account](https://disqus.com/profile/login/). (You will have to **[create an account](https://disqus.com/profile/signup/)** if you don't have one already).
+* **Comment on a post or page via  [Disqus](https://disqus.com/profile/login/)**. (You will have to **[create an account](https://disqus.com/profile/signup/)** if you don't have one already).
 
 * **Email us at [info@diabeticsbc.ca](mailto:info@diabeticsbc.ca?subject="Contact from DiabeticsBC Web Site")**.
 
