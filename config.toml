@@ -10,7 +10,11 @@ disqusShortname = "diabeticsbc"
 # googleAnalytics = "your-google-analytics-id"
 # enableRobotsTXT = true
 
-## Site Settings
+## Permalinks
+[permalinks]
+    post = "/:slug/"
+
+## ## Site Settings
 [params]
     author = "Stuart Hertzog"
     description = "We Are People With Diabetes"

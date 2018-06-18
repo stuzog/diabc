@@ -2,7 +2,7 @@
 title: "About DiabeticsBC"
 author: "Stuart Hertzog"
 date: "2018-05-12"
-slug: ["about-diabeticsbc"]
+slug: ["about"]
 type: ["page"]
 categories: ["diabeticsbc"]
 tags: ["diabeticsbc"]
