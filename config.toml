@@ -42,19 +42,19 @@ disqusShortname = "diabeticsbc"
     name = "About"
     identifier = "about"
     weight = 200
-    url = "/about/"
+    url = "/pages/about/"
 [[menu.main]]
     name = "Posts"
     weight = 300
     identifier = "posts"
     url = "/posts/"
-# [[menu.main]]
-#     name = "Pages"
-#     weight = 400
-#     identifier = "pages"
-#     url = "/pages/"
+ [[menu.main]]
+     name = "Pages"
+     weight = 400
+     identifier = "pages"
+     url = "/pages/"
 [[menu.main]]
     name = "Contact"
     identifier = "contact"
     weight = 500
-    url = "/contact/"
+    url = "/pages//contact/"
