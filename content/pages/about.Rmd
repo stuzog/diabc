@@ -1,7 +1,7 @@
 ---
 title: "About DiabeticsBC"
-author: Stuart Hertzog
-date: '2018-05-12'
+author: "Stuart Hertzog"
+date: "2018-05-12"
 slug: ["about-diabeticsbc"]
 type: ["page"]
 categories: ["diabeticsbc"]
