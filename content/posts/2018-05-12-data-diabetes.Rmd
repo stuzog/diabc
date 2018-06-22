@@ -8,7 +8,7 @@ categories: ["data-science"]
 type: post
 ---
 
-<img src="../../images/libre-180604.png" width=200 style="float: left; padding-right: 0.75em;" alt="Libre image" />
+<img src="../images/libre-180604.png" width=200 style="float: left; padding-right: 0.75em;" alt="Libre image" />
 
 **Nobody wants diabetes. It comes of its own, unbidden**. For some, "Big D" has been a part of their life since childhood. For others it strikes in middle age or even later. That's what happened to me: I have the little-known LADA diabetes, an auto-immune condition. It struck me later in life, coming out of the blue as a complete shock.
 
@@ -16,7 +16,7 @@ type: post
 
 **But once the condition is accepted as a fact, the question becomes how to adapt to it**. Some people don't get to that stage; they struggle against managing it and eventually succumb to its long-term depradations --- necrosis of the extremities leading to amputation; major organ failure; eye disease; a heart attack. I had a brush with a couple of those, but luckily emerged relatively unscathed.
 
-<img src="../../images/charge2-black.png" width=180 style="float: right; padding-left: 0.75em;" alt="Fitbit Charge2" />
+<img src="../images/charge2-black.png" width=180 style="float: right; padding-left: 0.75em;" alt="Fitbit Charge2" />
 
 **My approach to adaptation has been to regard the misfortune of having diabetes as an opportunity**. I started collecting all the data from my various blood sugar meters, and eventually acquired a [Fitbit](https://www.fitbit.com/en-ca/charge2) that monitors heart rate and exercise data.
 
