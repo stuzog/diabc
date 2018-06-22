@@ -17,8 +17,8 @@ disqusShortname = "diabeticsbc"
 ## ## Site Settings
 [params]
     author = "Stuart Hertzog"
-    description = "We Are People With Diabetes"
-    authorimage = "/img/hugo.png"
+    description = "People With Diabetes"
+    authorimage = "/img/diabc-logo.png"
     dateformat = "January 2, 2006"
     highlightjs = true
     email = "info@diabeticsbc.ca"
