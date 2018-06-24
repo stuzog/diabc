@@ -1,0 +1,29 @@
+---
+title: "BC Pharmacare Now Covers Pumps For Adults"
+author: "Stuart Hertzog"
+date: "2018-06-24"
+tags: ["glucose pumps"]
+categories: ["Pharmacare"]
+type: post
+---
+
+<p class="subhead">
+But restricted access to endocrinologists frustrates patients
+</p>
+
+<img src="../../images/omnipod.png" width=160 style="float: left; padding-right: 0.75em;" alt="Omnipod pump" />
+
+**Kudos to the NDP government** for [extending BC Pharmacare support](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/medical-supplies-coverage/diabetes-supplies/insulin-pumps-expansion) for continuous monitoring insulin pumps to all BC diabetic adults.
+
+**This wise policy decision will result in immediate health benefits** for British Columbians who suffer from diabetes, and a long-term cost saving to the BC health care system through reduced [diabetic neuropathy](https://www.mayoclinic.org/diseases-conditions/diabetic-neuropathy/symptoms-causes/syc-20371580), [eye](https://www.mayoclinic.org/diseases-conditions/diabetic-retinopathy/symptoms-causes/syc-20371611) and [heart disease](https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118), and [limb amputations]() due to the deleterious effects of improperly-managed diabetic blood sugar levels.
+
+**Two pumps were selected for the program**, which will cost $15 million over the first three years. The [Insulet Omnipod](http://www.omnipoddelivery.com/) _(top left)_ will be available in Tier-1 of the two-level program, with the [Medtronic MiniMed 630G](https://www.medtronicdiabetes.com/products/minimed-630g-insulin-pump-system) _(lower right)_ in the more advanced Tier-2, for people with more stringent needs.
+
+**But to qualify, a person with diabetes must be recommended to the program by an endocrinologist or diabetes expert**. That’s a major problem: even if registered with an endocrinologist, it takes up to six months to book an appointment with the few available.
+
+<img src="../../images/medtronic-630G.png" width=200 style="float: right; padding-left: 0.75em;" alt="Medtronic 630G" />
+
+**Due to retirement or maternity leave, recently in Victoria there were only four active practicing endocrinologists**, a number completely inadequate to meet by the growing need for urgent diabetic services. The situation is even worse in rural areas.
+
+**It’s great that the BC government has extended support for these vital modern monitoring devices**. But without the ability to access the program due to lack of access to medical specialists, too many British Columbians are going to have to remain waiting for these vital medical devices, and suffer the consequences of improperly managed diabetes.
+
