@@ -7,6 +7,5 @@ blogdown/
 public/
 .DS_Store
 packrat/
-packrat/src/
 packrat/lib*/
 packrat/src*/
