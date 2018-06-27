@@ -1,0 +1,79 @@
+---
+title: "How Were The Pump Suppliers Chosen?"
+author: "Stuart Hertzog"
+date: '2018-06-27'
+slug: questions-for-bcpharmacare-180627
+tags: ["bcpharmacare"]
+categories: ["BC government"]
+type: post
+---
+
+<p class="subhead">What went on behind closed doors?</p>
+
+**How BC Pharmacare selects its suppliers is not a very public process**. Although the recent extension of insulin pump coverage to adults is good news, the BC government [news release](https://news.gov.bc.ca/releases/2018HLTH0060-001168) and BC Pharmacare's [information page](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/medical-supplies-coverage/diabetes-supplies/insulin-pumps-expansion) leave many questions unanswered.
+
+**There may be good reasons for the selection process being conducted in private,** but as the program involves spending approximately $15 million over the next three years, the public has the right to know how and why BC Pharmacare selected its pump suppliers.
+
+**BC Pharmacare has two review processes**, the:
+
+* [BC Health Technology Review](https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/partners/health-authorities/bc-health-technology-review), which reviews clinical technologies, and the
+* [Drug Review Process](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/drug-coverage/drug-review-process-results), for pharmaceuticals, through its
+    * [Health Technology Assessment Committee](https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/partners/health-authorities/bc-health-technology-review/health-technology-assessment-committee)
+
+**Which of these processes was used to select the pump suppliers is not clear**. As insulin pumps are a technology, it would seem rational to infer that the first process was used, but as its focus is on hospital-based technologies, perhaps the latter was the case?
+
+**Enough speculation! Too many questions remain**. Here's my list so far:
+
+## Access to the Program
+
+A person must be recommended to the program by an endocrinologist or a "diabetes specialist". It's difficult to get an appointment with an endocrinologist in BC, which limits access. 
+
+* What is the definition of a "diabetes specialist"?
+* Are there any plans to speed up access to endocrinologists and/or specialists?
+
+## Selection Process
+
+* Which review process was followed for insulin pumps?
+* What was the composition of the selection committee?
+    * Were there representatives of the user on the committee?
+    * Were there representatives of the pump suppliers on the committee?
+* Was the Committee's deliberations minuted?
+    * Are these minutes available to the public?
+* Was there a public consultation process informing the Committee?
+    * If not, why not?
+    * If so, are the responses available to the public?
+
+## Selection Criteria
+
+* Was this an open process available to all suppliers?
+    * Which suppliers applied for consideration?
+    * Which devices and suppliers were considered?
+* What were the criteria for selection of pump suppliers?
+    * Are these criteria available to the public?
+    * Were these criteria weighted in the evaluation?
+    * What weight was given to each of the criteria?
+    * Was cost the primary consideration on the final selection?
+* How did the various suppliers perform in this evaluation?
+    * Is this evaluation available to the public?
+
+## Tiered Approach
+
+* What were the reasons behind adoption of a tiered approach for the final selection?
+* Why were the Omnipod and Medtronic 630G selected as tier1 and tier2 pumps?
+
+## Sole Sourcing
+
+* Why was a lowest-cost, sole-source approach taken in this case?
+* Are other types of device being considered for coverage (e.g. FGM)?
+
+## The Contract
+
+* What is the value and duration of the supply contracts issued?
+    * Is this contract available for public inspection?
+* Are there provisions for performance evaluation during the contract period?
+    * Are there provisions for renegotiation based on performance?
+
+**BC Pharmacare, we [await your response](mailto:info@diabeticsbc.ca?subject="Response to questions on DiabeticsBC Web Site").**
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: "BC Pharmacare Now Covers Pumps For Adults"
+title: "BC Pharmacare Covers Pumps For Adults"
 author: "Stuart Hertzog"
 date: "2018-06-24"
 tags: ["glucose pumps"]
