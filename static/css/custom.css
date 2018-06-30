@@ -7,13 +7,13 @@ body
     line-height: 1.5;
 }
 
-.imgage-left
+.image-left
 {
     float: left;
     padding-right: 0.75em;
 }
 
-.imgage-right
+.image-right
 {
     float: right;
     padding-left: 0.75em;
@@ -101,3 +101,10 @@ code {
   font-size: larger;
 }
 
+.lead {
+  font-size: 1rem;
+}
+
+.sidebar-nav li  {
+  font-size: 21px;
+}
