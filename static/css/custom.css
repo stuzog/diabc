@@ -22,13 +22,18 @@ body
 .img-circle
 {
     border-radius: 50%;
+}
+
+.img-logo
+{
     width: 512px;
-    height: 115px;
+    height: 124px;
+    margin-bottom: -0.95em;
 }
 
 .headshot
 {
-    width: 512px;
+    width: 115px;
     height: 115px;
 }
 
@@ -87,7 +92,6 @@ code {
 .center
 {
     display: block;
-
     margin-right: auto;
     margin-left: auto;
 }
