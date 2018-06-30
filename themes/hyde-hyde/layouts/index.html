@@ -4,7 +4,7 @@
 
 {{ define "content" -}}
   <div class="posts">
-  {{ range (where .Data.Pages "Type" "!=" "page").GroupBy "Section" }}
+  {{ range (where .Data.Pages "Type" "post").GroupBy "Section" }}
     {{ range .Pages }}
       <div class="post">
         <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }}<sup><i class="fas fa-pen-square fa-xs"></i></sup>{{ end }}</h1>
