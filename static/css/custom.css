@@ -109,6 +109,10 @@ code {
   font-size: 1rem;
 }
 
+ul.sidebar-nav  {
+  margin-top: 1.75rem;
+}
+
 .sidebar-nav li  {
   font-size: 21px;
 }
