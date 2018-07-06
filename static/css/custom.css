@@ -21,8 +21,10 @@ body
 
 .image-logo
 {
-    width: 512px;
+    max-width: 240px;
     height: 75px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: -0.95em;
 }
 
@@ -40,7 +42,7 @@ body
 .brand
 {
     font-size: 2.6em;
-    margin-bottom: 0;
+    margin-bottom: -0.135em;
 }
 
 .text-center
@@ -106,7 +108,7 @@ code {
 }
 
 .lead {
-  font-size: 1rem;
+  font-size: 1.035rem;
 }
 
 ul.sidebar-nav  {
