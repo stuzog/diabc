@@ -18,7 +18,7 @@ disqusShortname = "diabeticsbc"
 [params]
     author = "Stuart Hertzog"
     description = "We Are People With Diabetes"
-    logoimage = "/img/diabc-logo.png"
+    logoimage = "/img/diabc-logo-purple.png"
     authorimage = "/img/Stuart_420x420.jpg"
     dateformat = "January 2, 2006"
     highlightjs = true
