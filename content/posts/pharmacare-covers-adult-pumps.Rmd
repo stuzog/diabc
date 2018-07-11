@@ -11,7 +11,7 @@ type: post
 But restricted access to endocrinologists frustrates patients
 </p>
 
-<img src="../../images/omnipod.png" width=160 style="float: left; padding-right: 0.75em;" alt="Omnipod pump" />
+<img src="/images/omnipod.png" width=160 style="float: left; padding-right: 0.75em;" alt="Omnipod pump" />
 
 **Kudos to the NDP government** for [extending BC Pharmacare support](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/what-we-cover/medical-supplies-coverage/diabetes-supplies/insulin-pumps-expansion) for continuous monitoring insulin pumps to all BC diabetic adults.
 
@@ -21,7 +21,7 @@ But restricted access to endocrinologists frustrates patients
 
 **But to qualify, a person with diabetes must be recommended to the program by an endocrinologist or diabetes expert**. That’s a major problem: even if registered with an endocrinologist, it takes up to six months to book an appointment with the few available.
 
-<img src="../../images/medtronic-630G.png" width=200 style="float: right; padding-left: 0.75em;" alt="Medtronic 630G" />
+<img src="/images/medtronic-630G.png" width=200 style="float: right; padding-left: 0.75em;" alt="Medtronic 630G" />
 
 **Due to retirement or maternity leave, recently in Victoria there were only four active practicing endocrinologists**, a number completely inadequate to meet by the growing need for urgent diabetic services. The situation is even worse in rural areas.
 
