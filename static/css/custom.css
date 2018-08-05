@@ -1,11 +1,11 @@
-/* @font-face  {
+@font-face  {
   font-family: Raleway, sans-serif;
-  src: url("https://fonts.googleapis.com/css?family=Raleway")
+  src: url("https://fonts.googleapis.com/css?family=Raleway");
 }
-*/
+
 @font-face  {
   font-family: Roboto, sans-serif;
-  src: url("https://fonts.googleapis.com/css?family=Roboto")
+  src: url("https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900")
 }
 @font-face  {
   font-family: 'Roboto Condensed', sans-serif;
