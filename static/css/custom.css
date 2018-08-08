@@ -227,3 +227,9 @@ code {
     font-size: 1.035rem;
 }
 
+.inline-aside {
+    padding: 1.5rem;
+    background-color: azure;
+    font-weight: 400;
+    border: 1px solid black;
+}
