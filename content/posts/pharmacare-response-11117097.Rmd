@@ -5,7 +5,7 @@ date: "2018-08-08"
 tags: ["glucose pumps"]
 categories: ["Pharmacare"]
 type: post
-summary: There was hope that an NDP government would operate in a more open manner, bringing light to dark places in the Byzantine BC government bureaucracy Unfortunately, that doesn&rsquo;t seem to be the case. The response from BC Pharmacare to our detailed questions lacks any detail that isn&rsquo;t already available on its Web site.
+summary: "There was hope that an NDP government would operate in a more open manner, bringing light to dark places in the Byzantine BC government bureaucracy Unfortunately, that doesn't seem to be the case. The response from BC Pharmacare to our detailed questions lacks any detail that isn't already available on its Web site."
 ---
 
 <p class="subhead">
@@ -16,7 +16,7 @@ Nothing revealed that isn't already available on its web site
 
 **It's also understandable that its bureaucrats would want guard their public utterances** following decades of Liberal rule when access to medical services and information was steadily eroded.
 
-**But there was hope that an NDP government would operate in a more open manner**, bringing light to dark places in the Byzantine BC governmental machinery.
+**But there was hope that an NDP government would operate in a more open manner**, bringing light to dark places in the Byzantine BC governmental bureaucracy.
 
 **Unfortunately, that doesn't seem to be the case**. The response from BC Pharmacare to our [very detailed questions](/posts/questions-for-bcpharmacare-180627/) lacks any detail that isn't already available on its [web site](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents).
 
